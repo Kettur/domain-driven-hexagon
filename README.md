@@ -1,7 +1,7 @@
 # Domain-Driven Hexagon
-first change
-second change
-third change
+first ch
+second ch
+third ch
 **Check out my other repositories**:
 
 - [Backend best practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development.
